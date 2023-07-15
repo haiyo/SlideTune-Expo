@@ -1,0 +1,14 @@
+{
+  "name": "SlideTunes",
+  "displayName": "SlideTunes",
+  "extra": {
+    "eas": {
+      "projectId": "05f80e1b-0ff6-4dcd-a022-c2a7b43e355a"
+    }
+  },
+  "expo": {
+    "ios": {
+      "bundleIdentifier": "com.andylwl.slidetunes"
+    }
+  }
+}
